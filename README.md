@@ -13,6 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 My First React Project
 A react covid 19 Tracker app that's track Infected, Recovered, Deaths on the globe build using the covid 19 API provided by [mathdroid](https://github.com/mathdroid) [Here](https://github.com/mathdroid/covid19)
 
+Give as a Star 🌟
+
 [Live Preview](https://ycovid-tracker.netlify.app)
 
 ## Available Scripts
