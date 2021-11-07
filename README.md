@@ -1,11 +1,11 @@
 <p align="center">
- <img width="160px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636317426/upikl4xsuyv4kzj2mnd4.svg" align="center" alt="reactLogo" />
+ <img width="200px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636317426/upikl4xsuyv4kzj2mnd4.svg" align="center" alt="reactLogo" />
 </p>
 
 <h1 align="center">Covid Tracker</h1>
 
 <p align="center">
- <img width="160px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636317279/axk3nx4y48bm3ostbdjm.png" align="center" alt="appLogo" />
+ <img width="800px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636317279/axk3nx4y48bm3ostbdjm.png" align="center" alt="appLogo" />
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
